@@ -1,7 +1,7 @@
 # Recipe Recommendation System
 
 ## Overview
-This task implements a **Recipe Recommendation System** leveraging multiple datasets to provide personalized recipe recommendations. The system preprocesses data, applies content-based filtering, and incorporates user interactions and natural language processing (NLP) for insights and recommendations. Additionally, the system visualizes trends in user preferences, cuisine distributions, and ingredient popularity.
+This project implements a **Recipe Recommendation System** leveraging multiple datasets to provide personalized recipe recommendations. The system preprocesses data, applies content-based filtering, and incorporates user interactions and natural language processing (NLP) for insights and recommendations. Additionally, the system visualizes trends in user preferences, cuisine distributions, and ingredient popularity.
 
 ## Datasets Used
 1. **[Recipe1M+ Dataset](https://www.kaggle.com/datasets/saldenisov/recipenlg/data):**
